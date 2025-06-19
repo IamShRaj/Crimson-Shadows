@@ -63,7 +63,7 @@ The story was ending, but the legend was just beginning.
 ---
 
 **Final Navigation:**
-- [← Part IV: The Reckoning](part4/chapter20)
+- [← Part II: Temptation](part2/chapter9)
 - [Return to Beginning](prologue)
 
 **Story Stats:**
