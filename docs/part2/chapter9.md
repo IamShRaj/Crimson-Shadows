@@ -98,7 +98,7 @@ The thought should have terrified her. Instead, she felt a strange sense of anti
 
 **Chapter Navigation:**
 - [← Chapter 8](chapter8)
-- [Epilogue: New Beginnings →](../epilogue)
+- [Chapter 10: The Isle of Shadows →](chapter10)
 
 **Story Stats:**
 - Word Count: 1,200

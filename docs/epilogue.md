@@ -63,7 +63,7 @@ The story was ending, but the legend was just beginning.
 ---
 
 **Final Navigation:**
-- [← Part II: Temptation](part2/chapter9)
+- [← Chapter 15: Crimson Dawn](part3/chapter15)
 - [Return to Beginning](prologue)
 
 **Story Stats:**

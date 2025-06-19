@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Crimson Shadows',
   tagline: 'A tale of passion, mystery, and forbidden desires',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -63,12 +63,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/crimson-shadows-social.png',
       navbar: {
         title: 'Crimson Shadows',
         logo: {
           alt: 'Crimson Shadows Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon-32.png',
         },
         items: [
           {

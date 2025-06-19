@@ -10,7 +10,8 @@
 		"clear": "docusaurus clear",
 		"serve": "docusaurus serve",
 		"write-translations": "docusaurus write-translations",
-		"write-heading-ids": "docusaurus write-heading-ids"
+		"write-heading-ids": "docusaurus write-heading-ids",
+		"generate-images": "node scripts/generate-images.js"
 	},
 	"dependencies": {
 		"@docusaurus/core": "3.8.1",
@@ -19,7 +20,8 @@
 		"clsx": "^2.0.0",
 		"prism-react-renderer": "^2.3.0",
 		"react": "^19.0.0",
-		"react-dom": "^19.0.0"
+		"react-dom": "^19.0.0",
+		"sharp": "^0.34.2"
 	},
 	"devDependencies": {
 		"@docusaurus/module-type-aliases": "3.8.1",

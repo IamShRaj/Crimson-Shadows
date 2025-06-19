@@ -37,6 +37,18 @@ const sidebars = {
         'part2/chapter7',
         'part2/chapter8',
         'part2/chapter9',
+        'part2/chapter10',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Part III: Shadows Unveiled',
+      items: [
+        'part3/chapter11',
+        'part3/chapter12',
+        'part3/chapter13',
+        'part3/chapter14',
+        'part3/chapter15',
       ],
     },
     {
@@ -45,7 +57,7 @@ const sidebars = {
       items: [
         {
           type: 'html',
-          value: '<div style="padding: 1rem; font-style: italic; color: #8b1538;">Part III: Shadows Unveiled<br/>Part IV: The Reckoning</div>',
+          value: '<div style="padding: 1rem; font-style: italic; color: #8b1538;">Future expansions:<br/>• Character spin-offs<br/>• Prequel stories<br/>• Sequel adventures</div>',
         },
       ],
     },
