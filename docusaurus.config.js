@@ -26,7 +26,6 @@ const config = {
   baseUrl: '/Crimson-Shadows/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'IamShRaj', // Usually your GitHub org/user name.
   projectName: 'Crimson-Shadows', // Usually your repo name.
 
