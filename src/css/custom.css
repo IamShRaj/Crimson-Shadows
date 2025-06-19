@@ -185,3 +185,62 @@
     padding: 0 1rem;
   }
 }
+
+/* Chapter navigation enhancement */
+.markdown p a[href*="chapter"] {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+  background: linear-gradient(135deg, rgba(139, 21, 56, 0.1), rgba(212, 175, 55, 0.1));
+  border: 1px solid var(--ifm-color-primary);
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.markdown p a[href*="chapter"]:hover {
+  background: linear-gradient(135deg, rgba(139, 21, 56, 0.2), rgba(212, 175, 55, 0.2));
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(139, 21, 56, 0.3);
+}
+
+/* Story stats styling */
+.markdown p:last-child {
+  background: linear-gradient(135deg, rgba(139, 21, 56, 0.1), rgba(212, 175, 55, 0.1));
+  padding: 1rem;
+  border-left: 4px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-family: 'Arial', sans-serif;
+  text-align: left;
+  margin-top: 2rem;
+}
+
+/* Reading progress indicator */
+.theme-doc-footer {
+  border-top: 2px solid var(--ifm-color-primary);
+  margin-top: 3rem;
+  padding-top: 2rem;
+}
+
+/* Custom blockquote for story emphasis */
+.markdown blockquote p:first-child:before {
+  content: '"';
+  font-size: 3rem;
+  color: var(--ifm-color-primary);
+  float: left;
+  line-height: 1;
+  margin-right: 0.5rem;
+  margin-top: -0.5rem;
+}
+
+.markdown blockquote p:last-child:after {
+  content: '"';
+  font-size: 3rem;
+  color: var(--ifm-color-primary);
+  float: right;
+  line-height: 1;
+  margin-left: 0.5rem;
+  margin-bottom: -1rem;
+}
