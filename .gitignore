@@ -22,5 +22,16 @@ yarn-error.log*
 # wrangler files
 .wrangler
 .dev.vars*
+
+# Story-specific generated files (often contain personal story ideas)
 prompts.md
-.gitignore
+
+# Temporary or user-specific files
+*.tmp
+*.temp
+.vscode/settings.json
+
+# Optional: Uncomment if you want to keep your story ideas private
+# story-template-filled.md
+# my-story-idea.md
+# *-conversion.md
